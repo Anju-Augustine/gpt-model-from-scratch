@@ -16,5 +16,5 @@ Adjust hyperparameters in bigram_llm.py to customize the training process.
 
 ## Input and Output Files
 
-Input File: The training data is sourced from input data.txt, which contains Shakespeare's text.
-Output File: The generated text can be found in output.txt after running the bigram_llm.py script.
+- Input File: The training data is sourced from input data.txt, which contains Shakespeare's text.
+- Output File: The generated text can be found in output.txt after running the bigram_llm.py script.

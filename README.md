@@ -6,9 +6,9 @@ This repository contains the implementation of a Bigram Language Model using a t
 
 ## Key Features:
 
-**Transformer Architecture:** The model comprises essential transformer components, including self-attention, feedforward layers, layer normalization, and positional embeddings.
-**Training Loop:** Implements a training loop with periodic evaluation to monitor training and test loss.
-**Model Generation:** A function is provided to generate text from the trained model.
+- **Transformer Architecture:** The model comprises essential transformer components, including self-attention, feedforward layers, layer normalization, and positional embeddings.
+- **Training Loop:** Implements a training loop with periodic evaluation to monitor training and test loss.
+- **Model Generation:** A function is provided to generate text from the trained model.
 
 ## Hyperparameters
 

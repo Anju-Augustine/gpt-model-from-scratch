@@ -4,7 +4,7 @@ import torch.nn as nn
 from torch.nn import functional as F
 
 # Hyperparameters
-batchsize = 16 # Number of independent sequesnces to process in parallel
+batchsize = 16 # Number of independent sequences to process in parallel
 blocksize = 32 # Maximum context length for predictions
 max_iters = 40000
 eval_interval = 5000
